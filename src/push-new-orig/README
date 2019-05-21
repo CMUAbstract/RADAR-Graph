@@ -1,0 +1,8 @@
+Baseline push-only version of ligra and gap applications.
+
+**NOTE** We have made a small modification to the ligra framework to 
+allow all applications to use the `dense-write` execution mode every 
+iteration.
+
+The modification does not affect runtime of baseline ligra implementations
+(Less than 2% difference in runtime)
