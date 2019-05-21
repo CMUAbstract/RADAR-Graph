@@ -1,0 +1,5 @@
+HUBDUP-versions of graph applications. The application performs in-degree 
+sorting by default and duplicates state associated with hub vertices. 
+
+For this configuration, only the top 150K vertices are duplicated. (number
+of vertices determined based on number of threads and LLC sizes)
