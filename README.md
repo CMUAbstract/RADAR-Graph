@@ -1,2 +1,12 @@
 # RADAR-Graph
-Repository for RADAR (Combining Data Duplication and Graph Reordering)
+
+Repository associated with _Combining Data Duplication and Graph Reordering to 
+Accelerate Parallel Graph Processing_ **HPDC19**
+
+## Optimizations included
+
+* HUBDUP
+* DegreeSorting
+* RADAR (_combination of the above two optimizations_)
+
+
