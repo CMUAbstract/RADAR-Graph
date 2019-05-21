@@ -1,0 +1,6 @@
+The applications are exactly the same as `push-new-orig` but they 
+operate on a degree sorted graph. 
+
+Degree Sorting code may be found in:
+* Ligra/ligra/IO.h
+* GAP/src/builder.h
