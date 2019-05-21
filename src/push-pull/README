@@ -1,0 +1,9 @@
+Enhancing the baseline versions of `push-new-orig` with the push-pull
+direction-switching optimization.
+
+NOTE: Ligra applies the push-pull optimization by default for most
+applications 
+
+NOTE2: Due to the completely symmetric nature of the `tc_local` 
+application, executing the application in the pull mode would result
+in exactly the same execution
