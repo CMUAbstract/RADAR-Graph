@@ -15,6 +15,11 @@ be found in `src`:
 The above codes were used for generating the main plots in the paper. Source
 code for other experiments will be added soon...
 
+**NOTE**: For the `HUBDUP` and `RADAR` optimizations, the number of hubs to be 
+duplicated should be selected based on the LLC Capacity (i.e. the `llcCap` 
+variable should be selected based on the platform's available LLC capacity --
+we found `llcCap` = 0.9 * _LLCSz_ offers the best performance)
+
 ## Compilation
 
 The above versions have been tested using only OPENMP. To compile 
