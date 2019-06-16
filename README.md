@@ -33,7 +33,7 @@ the applications with different optimizations
 
 ## Usage Instructions
 
-The graph input formats are the same as specified by Ligra [link](https://github.com/jshun/ligra#input-format-for-ligra-applications-and-the-ligra-encoder) and GAP [link](https://github.com/sbeamer/gapbs#graph-loading)
+The graph input formats are the same as specified by Ligra ([link](https://github.com/jshun/ligra#input-format-for-ligra-applications-and-the-ligra-encoder)) and GAP([link](https://github.com/sbeamer/gapbs#graph-loading))
 
 For symmetric input graphs, adding the `-s` flag will lead to a more efficient execution
 
