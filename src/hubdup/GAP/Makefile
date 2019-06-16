@@ -16,8 +16,8 @@ ifneq ($(SERIAL), 1)
 	CXX_FLAGS += $(PAR_FLAG)
 endif
 
-KERNELS = tc_local tc_test
-SUITE = $(KERNELS) converter
+KERNELS = tc_local
+SUITE = $(KERNELS)
 
 .PHONY: all
 all: $(SUITE)

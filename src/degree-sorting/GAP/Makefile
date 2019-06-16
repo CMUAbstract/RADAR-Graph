@@ -17,7 +17,7 @@ ifneq ($(SERIAL), 1)
 endif
 
 KERNELS = tc_local 
-SUITE = $(KERNELS) converter
+SUITE = $(KERNELS)
 
 .PHONY: all
 all: $(SUITE)
