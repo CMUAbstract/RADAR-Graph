@@ -37,6 +37,31 @@ The graph input formats are the same as specified by Ligra ([link](https://githu
 
 For symmetric input graphs, adding the `-s` flag will lead to a more efficient execution
 
+## Citation
+
+If this work was useful to you, please consider citing our work. 
+
+bibtex entry
+
+`@inproceedings{Balaji:2019:CDD:3307681.3326609,
+ author = {Balaji, Vignesh and Lucia, Brandon},
+ title = {Combining Data Duplication and Graph Reordering to Accelerate Parallel Graph Processing},
+ booktitle = {Proceedings of the 28th International Symposium on High-Performance Parallel and Distributed Computing},
+ series = {HPDC '19},
+ year = {2019},
+ isbn = {978-1-4503-6670-0},
+ location = {Phoenix, AZ, USA},
+ pages = {133--144},
+ numpages = {12},
+ url = {http://doi.acm.org/10.1145/3307681.3326609},
+ doi = {10.1145/3307681.3326609},
+ acmid = {3326609},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {atomics, data duplication, graph processing, graph reordering, locality, power-law},
+}`
+
+
 ## Contact
 
 For bugs or any other information, please contact:
