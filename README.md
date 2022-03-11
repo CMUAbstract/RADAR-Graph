@@ -64,7 +64,5 @@ If this work was useful to you, please consider citing our work.
 
 ## Contact
 
-For bugs or any other information, please contact:
-
-`vigneshb_AT_andrew_DOT_cmu_DOT_edu`
+For bugs or any other information, please e-mail at `vigneshb@alumni.cmu.edu`
 
